@@ -2,7 +2,7 @@
   "mods": [
     {
       "name": "CustomSkinLoader.jar",
-      "url": "https://github.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/raw/main/CustomSkinLoader.jar"
+      "url": "https://raw.githubusercontent.com/GooseTDBT/mc-launcher-files/refs/heads/main/mods.json"
     }
   ]
 }
